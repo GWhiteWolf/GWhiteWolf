@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱Passionate programming student seeking technological challenges<br>and opportunities for growth.<br>📚Constantly learning and obsessed with code quality, I dedicate myself <br>to exploring new technologies and developing innovative solutions.<br>💻Through my repositories, I share personal projects, team collaborations,<br> and academic work, demonstrating my ability to develop software.<br>🌍Additionally, I love contributing to open-source projects and learning <br>from the programming community.
-
+🌱Passionate programming student seeking technological challenges<br>and opportunities for growth.<br>📚Constantly learning and obsessed with code quality, I dedicate myself <br>to exploring new technologies and developing innovative solutions.<br>💻Through my repositories, I share personal projects, team collaborations,<br> and academic work, demonstrating my ability to develop software.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GWhiteWolf#4753) 
